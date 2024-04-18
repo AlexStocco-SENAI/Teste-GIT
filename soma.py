@@ -1,1 +1,1 @@
-print(1+1)
+print(f"A SOMA DE 1+1 É IGUAL A {1+1}")
